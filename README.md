@@ -1,1 +1,1 @@
-# ParaGenerator usinghtml css javascript
+# ParaGenerator using html css and javascript
